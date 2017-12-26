@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">"Tacticians "</string>
+    <string name="invitation">Invitation</string>
+    <string name="ajanta">Ajanta</string>
+    <string name="agenda">agenda</string>
+    <string name="invitation1">Invitation</string>
+    <string name="agenta">Agenta</string>
+    <string name="agenda1">Agenda</string>
+    <string name="button">Invitation</string>
+    <string name="button1">Agenta</string>
+    <string name="button111">Invitation</string>
+</resources>
